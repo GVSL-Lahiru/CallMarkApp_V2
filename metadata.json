@@ -1,0 +1,5 @@
+{
+  "name": "Calling and Marking",
+  "description": "An offline-first customer management tool to import Excel sheets, initiate calls, and mark statuses with color-coded exports.",
+  "requestFramePermissions": []
+}
