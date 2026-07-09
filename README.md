@@ -3,7 +3,8 @@
 
 # CallMark
 
-*An AI-powered call marking and analysis application*
+*Call marking and customer management application*
+*(for the entry level caller centers)*
 
 <div style="margin: 20px 0;">
   <img alt="version" src="https://img.shields.io/badge/version-2.0-blue" />
