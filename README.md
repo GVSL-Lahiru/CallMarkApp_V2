@@ -1,5 +1,5 @@
 <div align="center">
-<img width="300" height="300" alt="CallMark Logo" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="300" height="300" alt="app-icon-1" src="https://github.com/user-attachments/assets/6662351a-cc1f-4e20-ac40-4ca66e9b8039" />
 
 # CallMark
 
