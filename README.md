@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Made with ❤️ by GVSL-Lahiru**
+**Made with "Google AI Studio" by GVSL-Lahiru**
 
 [⬆ back to top](#callmark)
 
