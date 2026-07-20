@@ -62,7 +62,7 @@
 
 ## 🎯 Features
 
-- 🤖 AI-powered call analysis using Gemini
+- 📜 Easily categorize customer lists
 - 📊 Real-time call marking and annotation
 - 💾 Persistent data storage
 - 🎨 Intuitive user interface
