@@ -9,10 +9,26 @@ export interface Customer {
   district: string;
   phone1: string;
   phone2: string;
-  note: string;
+  quantity: string;
+  size?: string;
   extra: string;
   status: MarkingStatus;
   answeredPhone: 'None' | '1st Number' | '2nd Number';
+  scheduleDate?: string;
+}
+
+export interface LinkedGoogleSheet {
+  id: string;
+  name: string;
+  url: string;
+}
+
+export interface CustomerGroup {
+  id: string;
+  name: string;
+  createdAt: number;
+  customers: Customer[];
+  lastMarkedId: string | null;
 }
 
 export const STATUS_COLORS: Record<MarkingStatus, { bg: string; text: string; excel: string }> = {
